@@ -1,2 +1,2 @@
-# htc-studio-
+# htc-studio
 My Personal App
